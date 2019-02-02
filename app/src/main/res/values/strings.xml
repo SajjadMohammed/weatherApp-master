@@ -1,0 +1,3 @@
+<resources xmlns:xlif="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">weather</string>
+</resources>

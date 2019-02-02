@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 44.36,
+    "lat": 33.24
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 284.15,
+    "pressure": 1024,
+    "humidity": 87,
+    "temp_min": 284.15,
+    "temp_max": 284.15
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.5,
+    "deg": 90
+  },
+  "clouds": {
+    "all": 20
+  },
+  "dt": 1548792000,
+  "sys": {
+    "type": 1,
+    "id": 7597,
+    "message": 0.0039,
+    "country": "IQ",
+    "sunrise": 1548734400,
+    "sunset": 1548772312
+  },
+  "id": 448955,
+  "name": "Tall Raml",
+  "cod": 200
+}
